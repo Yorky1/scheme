@@ -1,4 +1,4 @@
-# scheme
+# Scheme
 
 Cpp university course [homework](https://gitlab.com/danlark/cpp-advanced-hse/-/tree/main/tasks/scheme).
 
